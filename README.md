@@ -1,4 +1,4 @@
-*Tabuada Zumbi** é um jogo educativo e de ação 2D estilo *survival top-down*, onde sobrevivência e prática de matemática se fundem! Enfrente hordas de zumbis e chefões. Quando a munição da sua arma acabar, você precisa "hackeá-la" para recarregar os pentes, resolvendo operações rápidas de multiplicação e divisão por teclado ou **comando de voz**.
+**Tabuada Zumbi** é um jogo educativo e de ação 2D estilo *survival top-down*, onde sobrevivência e prática de matemática se fundem! Enfrente hordas de zumbis e chefões. Quando a munição da sua arma acabar, você precisa "hackeá-la" para recarregar os pentes, resolvendo operações rápidas de multiplicação e divisão por teclado ou **comando de voz**.
 
 ---
 
