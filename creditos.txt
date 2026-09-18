@@ -1,0 +1,40 @@
+
+Objetivo: Sobreviva o máximo de tempo possível. Quando sua munição acabar, utilize o painel lateral para recarregar ou aperte a tecla espaço para falar a reposta.
+
+Granadas (G): Elimine o Boss para ganhar granadas devastadoras!
+
+Escudo de Força (E): Sobreviva cada 1 minuto de partida para ganhar um Escudo. Ative-o com a tecla E para ganhar 10 segundos de imunidade e criar uma barreira física intransponível contra os zumbis!
+
+Desenvolvido por: Emanuel Dornelas - Prof. Química
+
+AGRADECIMENTOS ESPECIAIS
+Aos estudantes:
+- Cleber R.
+- Cristiano B.
+- Davi S.
+- Derveson S.
+- Gleisson V.
+- Júlio Cesar P.
+- Matheus Henrique S.
+
+por contribuíram ativamente com seus testes, análises e sugestões na evolução da jogabilidade desse jogo.
+
+Sons
+Musica de fundo: Music by <a href="https://pixabay.com/pt/users/mondamusic-54713575/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=512837">MondaMusic</a> from <a href="https://pixabay.com/music//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=512837">Pixabay</a>
+
+Recarga: Sound Effect by <a href="https://pixabay.com/pt/users/rescopicsound-45188866/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=233847">Rescopic Sound</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=233847">Pixabay</a>
+
+
+Arma tiro: Sound Effect by <a href="https://pixabay.com/pt/users/freesound_community-46691455/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=38082">freesound_community</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=38082">Pixabay</a>
+
+Dano: Sound Effect by <a href="https://pixabay.com/pt/users/floraphonic-38928062/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=218569">floraphonic</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=218569">Pixabay</a>
+
+Explosão: Sound Effect by <a href="https://pixabay.com/pt/users/soundreality-31074404/?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=312659">Jurij</a> from <a href="https://pixabay.com/sound-effects//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=312659">Pixabay</a>
+
+Artes:
+
+Personagem: https://kikcinaa.itch.io/
+
+Zumbi: https://caz-bee.itch.io/
+
+Arma (editado): https://rehandev.itch.io/
